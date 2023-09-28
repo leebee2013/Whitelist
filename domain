@@ -24,6 +24,22 @@
 169.254.*.*
 192.168.*.*
 
+
+; 客户列表
+*.dyqh.info
+*.tfqh.com
+*.xdns.com
+
+
+; 供应商列表
+*.huaweicloud.com
+*.aliyun.com
+
+; 服务列表
+*.diggui.com
+*.csdn.net
+
+
 ; 教育网
 *.acm.org
 *.dblp.org
