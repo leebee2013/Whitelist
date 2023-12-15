@@ -34,6 +34,9 @@
 ; 供应商列表
 *.huaweicloud.com
 *.aliyun.com
+*.alicdn.com
+*.trustarc.com
+
 
 ; 服务列表
 *.diggui.com
