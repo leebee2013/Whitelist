@@ -21,7 +21,8 @@
 *.dyqh.info
 *.tfqh.com
 *.xdns.com
-
+ai.com
+*.deepseek.com
 
 ; 供应商列表
 *.huaweicloud.com
